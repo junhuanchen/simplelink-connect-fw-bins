@@ -70,5 +70,17 @@
     "version" : "7.10.00.98.0.0+0",
     "hwType" : "CC2652R7",
     "imageType" : "bim"
+  },
+  {
+    "fileName" : "CC1352R1/1352r1.bin",
+    "version" : "7.10.00.98.0.0+1",
+    "hwType" : "CC1352R1",
+    "imageType" : "bim"
+  },
+  {
+    "fileName" : "CC1352R1/1352r2.bin",
+    "version" : "7.10.00.98.0.0+2",
+    "hwType" : "CC1352R1",
+    "imageType" : "bim"
   }
 ]
